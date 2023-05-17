@@ -1,0 +1,49 @@
+{
+  "name": "discord-v14-vanity-url",
+  "version": "1.0.0",
+  "description": "Beş v14 Vanity URL Bot",
+  "main": "five.js",
+  "scripts": {
+    "start": "node five.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "Bes-js",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord-url": "^6.0.0",
+    "discord.js": "^14.11.0"
+  },
+  "keywords": [
+    "Luppux",
+    "Beş#0005",
+    "five",
+    "fivesobes",
+    "Bes",
+    "fives",
+    "discord-url",
+    "discord-v14-vanity-url",
+    "discord-v14-vanity",
+    "vanity-url-v14",
+    "v14-vanity-url",
+    "Beş",
+    "Bes",
+    "5",
+    "v14",
+    "v14 vanity",
+    "v14 vanity-url",
+    "v14-vanity",
+    "discord-v14",
+    "v14 bot",
+    "discord v14",
+    "discord url botu",
+    "discord url bot",
+    "discord vanity bot",
+    "discord",
+    "v14 vanity",
+    "vanity",
+    "url",
+    "vanity-url"
+  ]
+}
